@@ -15,3 +15,4 @@ Some of the major topics that we cover include:
 By the end of this course, you’ll have the skills and knowledge to better manage state and build more reactive Angular applications using RxJS and signals.
 
 I hope you’ll join me on this exciting journey to learn RxJS and signals with the "RxJS and Angular Signals Fundamentals" course, at Pluralsight.
+# rxjs-work
